@@ -1,21 +1,26 @@
-<!--
-**ahmaskcy/ahmaskcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- My profile -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/v2/C5603AQGeSANf6QYitA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517285114874?e=1778716800&v=beta&t=v1Tt9mV-_6oH9gZQkSaNuJC422vbCrKEbgtVcb11ops">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/v2/C5603AQGeSANf6QYitA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517285114874?e=1778716800&v=beta&t=v1Tt9mV-_6oH9gZQkSaNuJC422vbCrKEbgtVcb11ops">
+ <img alt="My pic" src="https://media.licdn.com/dms/image/v2/C5603AQGeSANf6QYitA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1517285114874?e=1778716800&v=beta&t=v1Tt9mV-_6oH9gZQkSaNuJC422vbCrKEbgtVcb11ops">
 </picture>
 
+## About me
+Hi, GitHub user!
+
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+| Rank | Why? |
+|-----:|---------------|
+|     1|Ponder         |
+|     2|Dream          |
+|     3|Think          |
+
+</details>
+
+---
+> We do and learn
+
+<!-- My profile -->
